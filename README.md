@@ -1,3 +1,4 @@
 Test Rails API for todo list
 
-+JWT
++ Auth
++ JWT
