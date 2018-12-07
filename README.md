@@ -1,4 +1,4 @@
-Test Rails API for todo list
+Practicing writing Rails API for todo list
 
 + Auth
 + JWT?
